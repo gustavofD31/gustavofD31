@@ -1,0 +1,13 @@
+# sobre mim
+
+- 👋 olá, eu sou @gustavofD31
+- 👍 meu meio de contato é gustavo.florencio.deus@escola.pr.gov.br
+- 👀estou interessado  ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+gustavofD31/gustavofD31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
