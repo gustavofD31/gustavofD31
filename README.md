@@ -1,13 +1,9 @@
 # sobre mim
 
-- 👋 olá, eu sou @gustavofD31
+- **👋 olá, eu sou @gustavofD31**
 - 👍 meu meio de contato é gustavo.florencio.deus@escola.pr.gov.br
-- 👀estou interessado  ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀estou interessado em aprender novas linguagens 
+- 🌱 eu estou interessado em aprender novas linguagens de programação
+- 💞️ eu estou recentemente aprendendo a programar na linguagem de java script e scratch 
 - 📫 How to reach me ...
 
-<!---
-gustavofD31/gustavofD31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
