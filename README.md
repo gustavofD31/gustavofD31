@@ -1,4 +1,4 @@
-# sobre o mc ratao acento 
+# sobre o mc ratão
 
 - **👋 olá, eu sou @gustavofD31**
 - 👍 meu meio de contato é gustavo.florencio.deus@escola.pr.gov.br
